@@ -3,3 +3,5 @@
 
 # add boilerplate ignores for common IDEs/editors
 .vscode/
+
+.DS_Store
